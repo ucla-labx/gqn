@@ -1,0 +1,3 @@
+[submodule "gqn-datasets"]
+	path = gqn-datasets
+	url = git@github.com:deepmind/gqn-datasets.git
