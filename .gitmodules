@@ -1,3 +1,6 @@
 [submodule "gqn-datasets"]
 	path = gqn-datasets
 	url = git@github.com:deepmind/gqn-datasets.git
+[submodule "gqn_datasets_translator"]
+	path = gqn_datasets_translator
+	url = git@github.com:l3robot/gqn_datasets_translator.git
